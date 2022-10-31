@@ -1,6 +1,6 @@
 # Personal Learning Management System (LMS)
 
-This is an LMS I created for the university courses I teach back in 2020. 
+This is an LMS I created back in 2020 for the university courses I teach. 
 
 Features:
 
