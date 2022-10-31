@@ -212,7 +212,7 @@
   function isAssoc($arr) { foreach ($arr as $key => $value) { if (is_string($key)) return true; } return false; }
 
   function cleanAllPosts(){
-    if(isset($_POST)){
+    if(isset($_POST)){\en\get-started
 
       function cleanPostLevel($post){
         if(!$post){
