@@ -9,6 +9,6 @@ Easy update posting
 Quiz creation and grading system
 Zoom meeting button
 
-I'm still using it at https://su-apps.org/courses
+You can find the working version at https://su-apps.org/courses
 
 #JavaScript #PHP #HTML #CSS
